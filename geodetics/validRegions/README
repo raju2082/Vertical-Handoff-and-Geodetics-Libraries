@@ -1,0 +1,19 @@
+Algorithms for valid regions:
+
+I) Circle: 
+	-> Required center (Clat,Clong) point and radius.
+	-> Calculate the distance from the center to the vehicle (Vlat,Vlong) point.
+	-> If the distance is less than radius,then vehicle falls inside the region.
+
+II) ShapePointSet:
+	-> Required Anchor point and offsets w.r.t to the Anchor pt for the polygon choosed.
+	-> Set the Anchor point as origin, Calculate the equation of each line for the polygon given.
+	eg: A(Alat,Along) , B(x1,y1) , C(x2,y2) , D(x3,y3)
+		let us assume the eqn of line AB be ax+by+c = 0 ---->1
+	-> Plug in the third pt for (x,y) into the equation will result positive/negative depending on which side the point (x,y) lies.
+		substituting 'C' in eqn.1 will result in positve/negative i.e., to lie inside the line it has to be one among +ve/-ve.
+		same steps are repeated for other 3 lines also.
+	-> Figuring out which is which will result the point on the correct side of the line.
+	-> Also, calculate the vehicles random (Vlat,Vlong) point into cartesian coordinates w.r.t origin.
+	-> Substitute the vehicles (x,y) pt in the each of the above equations will result the correct side of the polygon.   
+	

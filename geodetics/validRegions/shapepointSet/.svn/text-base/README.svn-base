@@ -1,0 +1,2 @@
+compiled as: gcc -o result main.c validRegion_check.c latlong_XY.c -lm
+run as: ./result

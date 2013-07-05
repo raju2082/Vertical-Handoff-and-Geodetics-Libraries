@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/saver/!svn/ver/38/trunk/locomate/mips/apps/geodetics/validRegions/shapepointSet
+END
+validRegion_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/saver/!svn/ver/35/trunk/locomate/mips/apps/geodetics/validRegions/shapepointSet/validRegion_check.c
+END
+validRegion_routines.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/saver/!svn/ver/35/trunk/locomate/mips/apps/geodetics/validRegions/shapepointSet/validRegion_routines.h
+END
+latlong_to_XY.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/saver/!svn/ver/38/trunk/locomate/mips/apps/geodetics/validRegions/shapepointSet/latlong_to_XY.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/saver/!svn/ver/35/trunk/locomate/mips/apps/geodetics/validRegions/shapepointSet/main.c
+END
+lineEqn_btwn_twoPts.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/saver/!svn/ver/35/trunk/locomate/mips/apps/geodetics/validRegions/shapepointSet/lineEqn_btwn_twoPts.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/saver/!svn/ver/35/trunk/locomate/mips/apps/geodetics/validRegions/shapepointSet/README
+END
