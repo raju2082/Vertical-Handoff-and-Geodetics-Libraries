@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/saver/!svn/ver/37/trunk/locomate/mips/apps/geodetics/validRegions/library_4_validRegion/routines
+END
+validRegion_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/saver/!svn/ver/37/trunk/locomate/mips/apps/geodetics/validRegions/library_4_validRegion/routines/validRegion_check.c
+END
+validRegion_routines.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/saver/!svn/ver/37/trunk/locomate/mips/apps/geodetics/validRegions/library_4_validRegion/routines/validRegion_routines.h
+END
+latlong_to_XY.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/saver/!svn/ver/37/trunk/locomate/mips/apps/geodetics/validRegions/library_4_validRegion/routines/latlong_to_XY.c
+END

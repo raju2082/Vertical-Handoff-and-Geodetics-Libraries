@@ -1,0 +1,21 @@
+Calculating distance b/w two lat longs:
+
+Three formulae are given.
+
+I) Haversine Formula:  
+	This formula calculates the great-circle distance between two points – that is, 
+the shortest distance over the earth’s surface – given ‘as-the-crow-flies’ distance 
+between the points (ignoring any hills, of course!).
+	Haversine calculations are done on the basis of a spherical earth.
+
+II) Arada's Formula: This formula is taken from Vincenty's calculations. but to the point 
+that the calculations are based on ellipsoidal earth. 
+
+III) Spherical Law of cosines: 
+	In haversine formula, computational precision was limited. The simple spherical 
+law of cosines formula (cos c = cos a cos b + sin a sin b cos C) gives well-conditioned 
+results down to distances as small as around 1 metre.
+
+
+compiled as: gcc -o result main.c geographical_distance.c -lm
+run as: ./result lat1 long1 lat2 long2	 

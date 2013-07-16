@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/saver/!svn/ver/36/trunk/locomate/mips/apps/geodetics/distanceCalculations
+END
+geographical_distance.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/saver/!svn/ver/35/trunk/locomate/mips/apps/geodetics/distanceCalculations/geographical_distance.c
+END
+geodetic_routines.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/saver/!svn/ver/35/trunk/locomate/mips/apps/geodetics/distanceCalculations/geodetic_routines.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/saver/!svn/ver/35/trunk/locomate/mips/apps/geodetics/distanceCalculations/main.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/saver/!svn/ver/35/trunk/locomate/mips/apps/geodetics/distanceCalculations/README
+END
