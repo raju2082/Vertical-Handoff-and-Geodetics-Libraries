@@ -1,5 +1,3 @@
 project:
 =======
 
-
-  Raju Project
