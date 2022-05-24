@@ -1,2 +1,2 @@
-Vertical Handoff and Geodetics library.
+Vertical Handoff and Geodetics Library.
 
